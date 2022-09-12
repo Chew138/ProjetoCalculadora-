@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\bin\Debug\net6.0\Bootcamp .NET.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\bin\Debug\net6.0\Bootcamp .NET.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\bin\Debug\net6.0\Bootcamp .NET.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\bin\Debug\net6.0\Bootcamp .NET.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\bin\Debug\net6.0\Bootcamp .NET.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\refint\Bootcamp .NET.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\Bootcamp .NET.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Em Desenvolvimento\Bootcamp .NET\ProjetoCalculadora\obj\Debug\net6.0\ref\Bootcamp .NET.dll
